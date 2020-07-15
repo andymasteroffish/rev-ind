@@ -5,13 +5,13 @@ I created this tool because I was sick of reverse-indenting by hand. Simply spec
 
 ![An example of rev-ind being used on some nasty, terrible to look at code](img/preview_image.jpg?raw=true)
 
-##Usage
+## Usage
 
 ```
 ./rev-ind.sh my_bad_old_code.js my_very_good_code.js
 ```
 
-##Afterword
+## Afterword
 
 This is my first bash script and I am completely uninterested in feedback. Do not waste your time or mine.
 
